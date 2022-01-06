@@ -1,2 +1,11 @@
 accounts.msg=Hello from dev accounts
 account.build.version=3
+
+acconts.mailDetails.hostName=prod-account@gmail.com
+accounts.mailDetails.port=9010
+accounts.mailDetails.from=prod-account@gmail.com
+accounts.mailDetails.subject=Your account details eazy bank
+
+accounts.activeBranches[0]=Hyderabad
+accounts.activeBranches[1]=Paris
+accounts.activeBranches[2]=NewYork
